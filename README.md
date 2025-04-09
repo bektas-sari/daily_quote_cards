@@ -1,4 +1,4 @@
-# Daily Quote Cards 🌟
+# Daily Quote Cards 🌟 (FLUTTER App)
 
 Daily Quote Cards is a clean, animated Flutter app that displays a random motivational quote each day. 
 Users can favorite quotes, view their saved list, receive daily reminders, and share inspiring quotes with others. Built with modern UI principles and Flutter animations.
