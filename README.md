@@ -44,12 +44,6 @@ flutter run
 
 ---
 
-## 📸 Screenshots
-
-> Coming soon: Add screenshots of main and favorites screen
-
----
-
 ## 📊 Project Structure
 
 ```
