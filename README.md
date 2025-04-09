@@ -25,7 +25,7 @@ Users can favorite quotes, view their saved list, receive daily reminders, and s
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/daily_quote_cards.git
+git clone https://github.com/bektas-sari/daily_quote_cards.git
 cd daily_quote_cards
 flutter pub get
 flutter run
